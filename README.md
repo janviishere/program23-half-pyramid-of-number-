@@ -1,0 +1,1 @@
+# program23-half-pyramid-of-number-
